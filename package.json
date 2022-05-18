@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Dominik"
+	"author": "Dominik",
+	"description": "This is sample project from freecodecamp. I will learn to code."
 }
