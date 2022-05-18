@@ -14,5 +14,6 @@
 	"author": "Dominik",
 	"description": "This is sample project from freecodecamp. I will learn to code.",
 	"keywords": ["freecodecamp", "tutorial", "nodejs"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "0.0.1"
 }
